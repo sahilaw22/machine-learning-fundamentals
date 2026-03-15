@@ -4,20 +4,30 @@
 
 ---
 
+
 ## Repository Structure
 
-- 📂 Machine Learning Fundamentals
-    -  **[Python](./Python)** — _Core Python implementations, experiments, and basic data structures._
+- 📂 **Python** — Core Python implementations, experiments, and basic data structures
+    - 📁 **Experiments/** — PDF resources and documentation for lab experiments
+        - Experiment-1.pdf, Experiment-2.pdf, Experiment-3.pdf
+    - 📁 **ML Labs Python Notebooks/** — Jupyter Notebooks for hands-on practicals
+        - Practical_1.ipynb: Basic Data Types
+        - Practical_2.ipynb: Loops and Conditional Statements
+    - README.md: Overview of Python experiments and resources
+
 
 ---
 
 ## Getting Started
 
+
 ### Prerequisites
 To run the notebooks and experiments in this repository, you'll need:
 - Python 3.10+
-- Jupyter Notebook / Lab
-- Basic understanding of programming logic
+- Jupyter Notebook or Jupyter Lab
+- Basic understanding of Python programming
+
+git clone https://github.com/sahilaw22/machine-learning-fundamentals.git
 
 ### Installation
 ```bash
@@ -27,6 +37,12 @@ git clone https://github.com/sahilaw22/machine-learning-fundamentals.git
 # Navigate to the project directory
 cd machine-learning-fundamentals
 ```
+
+# Usage
+
+Open the notebooks in `Python/ML Labs Python Notebooks/` using Jupyter Notebook or Jupyter Lab to explore and run the experiments interactively.
+
+PDFs in `Python/Experiments/` provide supporting theory and documentation for each lab.
 
 ---
 
