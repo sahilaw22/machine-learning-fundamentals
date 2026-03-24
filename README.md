@@ -7,13 +7,14 @@
 
 ## Repository Structure
 
-- 📂 **Python** — Core Python implementations, experiments, and basic data structures
-    - 📁 **Experiments/** — PDF resources and documentation for lab experiments
-        - Experiment-1.pdf, Experiment-2.pdf, Experiment-3.pdf
-    - 📁 **ML Labs Python Notebooks/** — Jupyter Notebooks for hands-on practicals
-        - Practical_1.ipynb: Basic Data Types
-        - Practical_2.ipynb: Loops and Conditional Statements
-        - Practical_3.ipynb: Mathematical Computing with Numpy, Pandas, Matplotlib
+- 📁 **Experiments/** — PDF resources and documentation for lab experiments (at root)
+    - Experiment-1.pdf
+    - Experiment-2.pdf
+    - Experiment-3.pdf
+- 📁 **ML Labs Python Notebooks/** — Jupyter Notebooks for hands-on practicals (at root)
+    - Practical_1.ipynb: Basic Data Types
+    - Practical_2.ipynb: Loops and Conditional Statements
+    - Practical_3.ipynb: Mathematical Computing with Numpy, Pandas, Matplotlib
 
 ---
 
@@ -39,9 +40,10 @@ cd machine-learning-fundamentals
 
 # Usage
 
-Open the notebooks in `Python/ML Labs Python Notebooks/` using Jupyter Notebook or Jupyter Lab to explore and run the experiments interactively.
 
-PDFs in `Python/Experiments/` provide supporting theory and documentation for each lab.
+Open the notebooks in `ML Labs Python Notebooks/` using Jupyter Notebook or Jupyter Lab to explore and run the experiments interactively.
+
+PDFs in `Experiments/` provide supporting theory and documentation for each lab.
 
 ---
 
