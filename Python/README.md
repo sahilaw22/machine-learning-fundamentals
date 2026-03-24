@@ -1,3 +1,15 @@
+### Practical 1: Basic Data Types — `Practical_1.ipynb`
+
+### Practical 2: Loops and Conditional Statements — `Practical_2.ipynb`
+
+### Practical 3: Mathematical Computing with Numpy, Pandas, Matplotlib — `Practical_3.ipynb`
+
+**What it does:**
+...
+
+## Resources
+...
+
 # 🐍 Introduction to Python
 
 > A foundational exploration of Python programming, covering core data structures and fundamental concepts essential for Machine Learning.
