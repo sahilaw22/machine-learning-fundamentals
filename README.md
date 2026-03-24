@@ -27,8 +27,6 @@ To run the notebooks and experiments in this repository, you'll need:
 - Jupyter Notebook or Jupyter Lab
 - Basic understanding of Python programming
 
-git clone https://github.com/sahilaw22/machine-learning-fundamentals.git
-
 ### Installation
 ```bash
 # Clone the repository
