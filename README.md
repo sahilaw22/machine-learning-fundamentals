@@ -14,7 +14,6 @@
         - Practical_1.ipynb: Basic Data Types
         - Practical_2.ipynb: Loops and Conditional Statements
         - Practical_3.ipynb: Mathematical Computing with Numpy, Pandas, Matplotlib
-    - README.md: Overview of Python experiments and resources
 
 ---
 
